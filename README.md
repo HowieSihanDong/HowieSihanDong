@@ -8,7 +8,10 @@
 
 - 🔭 **Current Work:** Master of IT (AI and Data Science) 
 - 🌱 **Currently Learning:** Modeling, Testing, Artificial Intelligence... 
-- 📫 **Reach Me:** sidong@student.unimelb.edu.au or toidi0710@outlook.com 
+- 📫 **Reach Me:** sidong@student.unimelb.edu.au or toidi0710@outlook.com
+
+## Example of Works
+- 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HowieSihanDong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/howie-sihan-dong/)  
 
