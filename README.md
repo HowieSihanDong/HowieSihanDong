@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Howie (Sihan Dong)  
 #### Data Science, Artificial Intelligence, and IT @Unimelb 🎓  
+![Profile Photo](./profile_photo.png)
+
 🚀 An enthusiastic and self-motivated IT professional pursuing a Master of Information Technology in Artificial Intelligence at the University of Melbourne. I’m eager to contribute to impactful data-driven projects, thrive in collaborative environments, and am passionate about continuous learning and problem-solving in the tech industry.
 
 ## Skills and Experience
