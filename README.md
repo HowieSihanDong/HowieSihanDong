@@ -1,7 +1,17 @@
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi there 👋, my name is Howie (Sihan Dong) &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" alt="Hi there emoji" /> 
+    &nbsp; Hi there 👋, my name is Howie (Sihan Dong) &nbsp; 
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" alt="Hi there emoji" />
+  </h2>
+</div>
 
+<div align="center">
+  <h3>
+    Data Science, Artificial Intelligence, and IT in @Unimelb 🎓   &nbsp; 
+  </h3>
+</div>
 
-#### Data Science, Artificial Intelligence, and IT @Unimelb 🎓  
 ![Profile Photo](./profile_photo.png)
 
 🚀 An enthusiastic and self-motivated IT professional pursuing a Master of Information Technology in Artificial Intelligence at the University of Melbourne. I’m eager to contribute to impactful data-driven projects, thrive in collaborative environments, and am passionate about continuous learning and problem-solving in the tech industry.
