@@ -30,7 +30,10 @@
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 |[![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=tableau&logoColor=FFFFFF)](https://www.tableau.com/)|[![Victorian-Traffic-Insights](https://img.shields.io/static/v1?label=&message=Victorian-Traffic-Insights&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization.git)|
-|[![R Studio](https://img.shields.io/static/v1?label=&message=R%20Studio&color=75AADB&logo=rstudio&logoColor=FFFFFF)](https://www.rstudio.com/)|[![A-Network-for-Cognition-and-Inference-IAC](https://img.shields.io/static/v1?label=&message=A-Network-for-Cognition-and-Inference-IAC&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/HowieSihanDong/A-Network-for-Cognition-and-Inference-IAC.git)
+|[![R Studio](https://img.shields.io/static/v1?label=&message=R%20Studio&color=75AADB&logo=rstudio&logoColor=FFFFFF)](https://www.rstudio.com/)|[![A-Network-for-Cognition-and-Inference-IAC](https://img.shields.io/static/v1?label=&message=A-Network-for-Cognition-and-Inference-IAC&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/HowieSihanDong/A-Network-for-Cognition-and-Inference-IAC.git)|
+|[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://www.python.org/)|[![Netflix-explore](https://img.shields.io/static/v1?label=&message=Netflix-explore&color=E50914&logo=netflix&logoColor=FFFFFF)](https://github.com/HowieSihanDong/Netflix-explore.git)|
+
+
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
