@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    Data Science, Artificial Intelligence, and IT in @Unimelb 🎓   &nbsp; 
+    Data Science🔢, Artificial Intelligence🧠, and IT💻 in @Unimelb 🎓   &nbsp; 
   </h3>
 </div>
 
