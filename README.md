@@ -1,4 +1,6 @@
-## Hi there 👋, my name is Howie (Sihan Dong)  
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi there 👋, my name is Howie (Sihan Dong) &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+
 #### Data Science, Artificial Intelligence, and IT @Unimelb 🎓  
 ![Profile Photo](./profile_photo.png)
 
