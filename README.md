@@ -7,10 +7,11 @@
 </div>
 
 <div align="center">
-  <h3>
-    Data Science🔢, Artificial Intelligence🧠, and IT💻 in @Unimelb 🎓   &nbsp; 
-  </h3>
+  <p>
+    Data Science 🔢, Artificial Intelligence 🧠, and IT 💻 in @Unimelb 🎓 &nbsp;
+  </p>
 </div>
+
 
 ![Profile Photo](./profile_photo.png)
 
