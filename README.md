@@ -17,29 +17,25 @@
 
 🚀 An enthusiastic and self-motivated IT professional pursuing a Master of Information Technology in Artificial Intelligence at the University of Melbourne. I’m eager to contribute to impactful data-driven projects, thrive in collaborative environments, and am passionate about continuous learning and problem-solving in the tech industry.
 
+<table  border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
 
-<div style="display: flex; align-items: center;">
+### Skills and Experience
 
-<!-- 左侧文字 -->
-<div style="flex: 1;">
-<h2>Skills and Experience</h2>
-<ul>
-  <li><strong>Skills:</strong> Python 🐍 / JAVA ☕ / Tableau 📊 / Matlab 📐 / R Studio 📈</li>
-  <li>🔭 <strong>Current Work:</strong> Master of IT (AI and Data Science)</li>
-  <li>🌱 <strong>Currently Learning:</strong> Modeling, Testing, Artificial Intelligence...</li>
-  <li>📫 <strong>Reach Me:</strong> <a href="mailto:sidong@student.unimelb.edu.au">sidong@student.unimelb.edu.au</a> or <a href="mailto:toidi0710@outlook.com">toidi0710@outlook.com</a></li>
-</ul>
-</div>
+- 💻 **Skills:** Python 🐍 / JAVA ☕ / Tableau 📊 / Matlab 📐 / R Studio 📈  
+- 🔭 **Current Work:** Master of IT (AI and Data Science)  
+- 🌱 **Currently Learning:** Modeling, Testing, Artificial Intelligence...  
+- 📫 **Reach Me:** sidong@student.unimelb.edu.au or toidi0710@outlook.com  
 
-<!-- 右侧图片 -->
-<div style="flex: 1; text-align: center;">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" alt="Cool GIF" style="max-width: 100%; height: auto;">
-</div>
+</td>
+<td>
 
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" alt="Cool GIF" width="400">
 
-
-
+</td>
+</tr>
+</table>
 
 
 
