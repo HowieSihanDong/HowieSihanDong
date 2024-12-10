@@ -17,29 +17,27 @@
 
 🚀 An enthusiastic and self-motivated IT professional pursuing a Master of Information Technology in Artificial Intelligence at the University of Melbourne. I’m eager to contribute to impactful data-driven projects, thrive in collaborative environments, and am passionate about continuous learning and problem-solving in the tech industry.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left section: Skills and Intro -->
-  <div style="width: 48%;">
-    <h2>Skills and Experience</h2>
-    <ul>
-      <li><b>Skills:</b> Python 🐍 / JAVA ☕ / Tableau 📊 / Matlab 📐 / R Studio 📈</li>
-    </ul>
-    <ul>
-      <li>🔭 <b>Current Work:</b> Master of IT (AI and Data Science)</li>
-      <li>🌱 <b>Currently Learning:</b> Modeling, Testing, Artificial Intelligence...</li>
-      <li>📫 <b>Reach Me:</b> <a href="mailto:sidong@student.unimelb.edu.au">sidong@student.unimelb.edu.au</a> or <a href="mailto:toidi0710@outlook.com">toidi0710@outlook.com</a></li>
-    </ul>
-  </div>
 
-  <!-- Right section: GitHub -->
-  <div style="width: 48%; text-align: center;">
-    <h2>My GitHub</h2>
-    <a href="https://github.com/HowieDong" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=HowieDong&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
-    </a>
-    <p><a href="https://github.com/HowieDong" target="_blank">Visit My GitHub Profile</a></p>
-  </div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<!-- Left Section: Skills and Intro -->
+<div>
+  <h2>Skills and Experience</h2>
+  <ul>
+    <li><strong>Skills:</strong> Python 🐍 / JAVA ☕ / Tableau 📊 / Matlab 📐 / R Studio 📈</li>
+    <li>🔭 <strong>Current Work:</strong> Master of IT (AI and Data Science)</li>
+    <li>🌱 <strong>Currently Learning:</strong> Modeling, Testing, Artificial Intelligence...</li>
+    <li>📫 <strong>Reach Me:</strong> sidong@student.unimelb.edu.au or toidi0710@outlook.com</li>
+  </ul>
 </div>
+
+<!-- Right Section: GIF -->
+<div>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" alt="Cool GIF" width="400">
+</div>
+
+</div>
+
 
 
 ## Example of Works
