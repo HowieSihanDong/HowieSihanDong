@@ -17,13 +17,30 @@
 
 🚀 An enthusiastic and self-motivated IT professional pursuing a Master of Information Technology in Artificial Intelligence at the University of Melbourne. I’m eager to contribute to impactful data-driven projects, thrive in collaborative environments, and am passionate about continuous learning and problem-solving in the tech industry.
 
-## Skills and Experience
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left section: Skills and Intro -->
+  <div style="width: 48%;">
+    <h2>Skills and Experience</h2>
+    <ul>
+      <li><b>Skills:</b> Python 🐍 / JAVA ☕ / Tableau 📊 / Matlab 📐 / R Studio 📈</li>
+    </ul>
+    <ul>
+      <li>🔭 <b>Current Work:</b> Master of IT (AI and Data Science)</li>
+      <li>🌱 <b>Currently Learning:</b> Modeling, Testing, Artificial Intelligence...</li>
+      <li>📫 <b>Reach Me:</b> <a href="mailto:sidong@student.unimelb.edu.au">sidong@student.unimelb.edu.au</a> or <a href="mailto:toidi0710@outlook.com">toidi0710@outlook.com</a></li>
+    </ul>
+  </div>
 
-💻 **Skills:** Python 🐍 / JAVA ☕ / Tableau 📊 / Matlab 📐 / R Studio 📈  
+  <!-- Right section: GitHub -->
+  <div style="width: 48%; text-align: center;">
+    <h2>My GitHub</h2>
+    <a href="https://github.com/HowieDong" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=HowieDong&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+    </a>
+    <p><a href="https://github.com/HowieDong" target="_blank">Visit My GitHub Profile</a></p>
+  </div>
+</div>
 
-- 🔭 **Current Work:** Master of IT (AI and Data Science) 
-- 🌱 **Currently Learning:** Modeling, Testing, Artificial Intelligence... 
-- 📫 **Reach Me:** sidong@student.unimelb.edu.au or toidi0710@outlook.com
 
 ## Example of Works
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
